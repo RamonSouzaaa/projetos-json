@@ -1,4 +1,4 @@
-}
+[
 	{
 		"id":1,
 		"nome":"Jogo da Velha",
@@ -40,5 +40,5 @@
 		"skills": [
 			"VUE"
 		]
-	},
-}
+	}
+]
