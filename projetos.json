@@ -6,9 +6,9 @@
 		"descricao":"Esse projeto foi criado para que eu pudesse treinar meus conhecimento com desenvolvimento Javascript utilizando a criação de classes e uso de getters e setters. Logo abaixo a imagem demonstra como ficou o jogo.",
 		"git":"https://github.com/RamonSouzaaa/jogo-velha",
 		"skills":[
-			"HTML",
-			"CSS",
-			"JS"
+			"https://raw.githubusercontent.com/RamonSouzaaa/projetos-json/main/icons/icon-html.png",
+			"https://raw.githubusercontent.com/RamonSouzaaa/projetos-json/main/icons/icon-css.png",
+			"https://raw.githubusercontent.com/RamonSouzaaa/projetos-json/main/icons/icon-js.png"
 		]
 	},
 	{
@@ -18,7 +18,7 @@
 		"descricao":"Esse projeto foi criado dentro do curso de vue que eu estou estudando, foi utilizado alguns conceito do vue e também algumas diretivas básicas do framework.",
 		"git":"https://github.com/RamonSouzaaa/cronometro",
 		"skills":[
-			"VUE"
+			"https://raw.githubusercontent.com/RamonSouzaaa/projetos-json/main/icons/icon-vue.png"
 		]
 	},
 	{
@@ -28,7 +28,7 @@
 		"descricao":"Seguindo o curso de vue js foi desenvolvido esse projeto de to-do list usando alguns conceitos do framework e também o uso de localStorage para armazenar as informações da aplicação",
 		"git":"https://github.com/RamonSouzaaa/todo-list",
 		"skills":[
-			"VUE"
+			"https://raw.githubusercontent.com/RamonSouzaaa/projetos-json/main/icons/icon-vue.png"
 		]
 	},
 	{
@@ -38,7 +38,7 @@
 		"descricao": "App clima",
 		"git":"https://github.com/RamonSouzaaa/app-clima",
 		"skills": [
-			"VUE"
+			"https://raw.githubusercontent.com/RamonSouzaaa/projetos-json/main/icons/icon-vue.png"
 		]
 	}
 ]
